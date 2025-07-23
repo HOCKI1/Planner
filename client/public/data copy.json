@@ -1,0 +1,351 @@
+{
+  "categories": [
+    {
+      "id": "storage",
+      "title": "Пространство для хранения",
+      "description": "Шкафы, тумбы и системы хранения",
+      "subcategories": [
+        {
+          "id": "cabinets",
+          "name": "Шкафы",
+          "items": [
+            {
+              "id": 1,
+              "name": "Тумба обычная",
+              "width": 0.55,
+              "depth": 0.6,
+              "height": 0.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba1.glb",
+              "price": "15.99",
+              "materials": [
+                {
+                  "color": "#C0C0C0",
+                  "matPath": "/models/tumba1.mtl"
+                },
+                {
+                  "color": "#FFFFFF",
+                  "matPath": "/models/tumba1.mtl"
+                }
+              ],
+              "imgPath": "/models/tumba1.png",
+              "properties": {
+                "width": [
+                  {
+                    "value": "55",
+                    "price": "15.99",
+                    "model": "tumba1"
+                  }
+                ],
+                "height": [
+                  {
+                    "value": "85",
+                    "price": "0",
+                    "model": "tumba1"
+                  }
+                ],
+                "colors": [
+                  "#C0C0C0",
+                  "#FFFFFF"
+                ],
+                "model": "tumba1",
+                "mtlFile": "tumba1.mtl"
+              }
+            },
+            {
+              "id": 2,
+              "name": "Тумба узкая",
+              "width": 0.3,
+              "depth": 0.6,
+              "height": 0.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba2.glb",
+              "price": "10.99",
+              "materials": [
+                {
+                  "color": "#C0C0C0",
+                  "matPath": "/models/tumba2.mtl"
+                },
+                {
+                  "color": "#FFFFFF",
+                  "matPath": "/models/tumba2.mtl"
+                }
+              ],
+              "imgPath": "/models/tumba2.png",
+              "properties": {
+                "width": [
+                  {
+                    "value": "30",
+                    "price": "10.99",
+                    "model": "tumba2"
+                  }
+                ],
+                "height": [
+                  {
+                    "value": "85",
+                    "price": "0",
+                    "model": "tumba2"
+                  }
+                ],
+                "colors": [
+                  "#C0C0C0",
+                  "#FFFFFF"
+                ],
+                "model": "tumba2",
+                "mtlFile": "tumba2.mtl"
+              }
+            },
+            {
+              "id": 3,
+              "name": "Тумба широкая",
+              "width": 0.8,
+              "depth": 0.6,
+              "height": 0.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba3.glb",
+              "price": "20.99",
+              "materials": [
+                {
+                  "color": "#C0C0C0",
+                  "matPath": "/models/tumba3.mtl"
+                },
+                {
+                  "color": "#FFFFFF",
+                  "matPath": "/models/tumba3.mtl"
+                }
+              ],
+              "imgPath": "/models/tumba3.png",
+              "properties": {
+                "width": [
+                  {
+                    "value": "80",
+                    "price": "20.99",
+                    "model": "tumba3"
+                  }
+                ],
+                "height": [
+                  {
+                    "value": "85",
+                    "price": "0",
+                    "model": "tumba3"
+                  }
+                ],
+                "colors": [
+                  "#C0C0C0",
+                  "#FFFFFF"
+                ],
+                "model": "tumba3",
+                "mtlFile": "tumba3.mtl"
+              }
+            },
+            {
+              "id": 5,
+              "name": "Тумба открытая",
+              "width": 0.43,
+              "depth": 0.54,
+              "height": 0.67,
+              "rotZ": 0,
+              "modelPath": "/models/tumba5.glb",
+              "price": "12.99",
+              "materials": [
+                {
+                  "color": "#C0C0C0",
+                  "matPath": "/models/tumba5.mtl"
+                },
+                {
+                  "color": "#FFFFFF",
+                  "matPath": "/models/tumba5.mtl"
+                }
+              ],
+              "imgPath": "/models/tumba5.png",
+              "properties": {
+                "width": [
+                  {
+                    "value": "43",
+                    "price": "12.99",
+                    "model": "tumba5"
+                  }
+                ],
+                "height": [
+                  {
+                    "value": "67",
+                    "price": "0",
+                    "model": "tumba5"
+                  }
+                ],
+                "colors": [
+                  "#C0C0C0",
+                  "#FFFFFF"
+                ],
+                "model": "tumba5",
+                "mtlFile": "tumba5.mtl"
+              }
+            },
+            {
+              "id": 6,
+              "name": "Тумба высокая открытая",
+              "width": 0.92,
+              "depth": 0.65,
+              "height": 1.25,
+              "rotZ": 0,
+              "modelPath": "/models/tumba6.glb",
+              "price": "25.99",
+              "materials": [
+                {
+                  "color": "#C0C0C0",
+                  "matPath": "/models/tumba5.mtl"
+                },
+                {
+                  "color": "#FFFFFF",
+                  "matPath": "/models/tumba5.mtl"
+                }
+              ],
+              "imgPath": "/models/tumba6.png",
+              "properties": {
+                "width": [
+                  {
+                    "value": "92",
+                    "price": "25.99",
+                    "model": "tumba6"
+                  }
+                ],
+                "height": [
+                  {
+                    "value": "125",
+                    "price": "5.00",
+                    "model": "tumba6"
+                  }
+                ],
+                "colors": [
+                  "#C0C0C0",
+                  "#FFFFFF"
+                ],
+                "model": "tumba6",
+                "mtlFile": "tumba5.mtl"
+              }
+            },
+            {
+              "id": 7,
+              "name": "Тумба средняя открытая",
+              "width": 0.61,
+              "depth": 0.65,
+              "height": 0.9,
+              "rotZ": 0,
+              "modelPath": "/models/tumba7.glb",
+              "price": "18.99",
+              "materials": [
+                {
+                  "color": "#C0C0C0",
+                  "matPath": "/models/tumba5.mtl"
+                },
+                {
+                  "color": "#FFFFFF",
+                  "matPath": "/models/tumba5.mtl"
+                }
+              ],
+              "imgPath": "/models/tumba7.png",
+              "properties": {
+                "width": [
+                  {
+                    "value": "61",
+                    "price": "18.99",
+                    "model": "tumba7"
+                  }
+                ],
+                "height": [
+                  {
+                    "value": "90",
+                    "price": "2.00",
+                    "model": "tumba7"
+                  }
+                ],
+                "colors": [
+                  "#C0C0C0",
+                  "#FFFFFF"
+                ],
+                "model": "tumba7",
+                "mtlFile": "tumba5.mtl"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appliances",
+      "title": "Техника",
+      "description": "Бытовая техника",
+      "subcategories": [
+        {
+          "id": "refrigerators",
+          "name": "Холодильники",
+          "items": [
+            {
+              "id": 4,
+              "name": "Холодильник обычный",
+              "width": 0.75,
+              "depth": 0.8,
+              "height": 1.7,
+              "rotZ": 0,
+              "modelPath": "/models/holodilnik.glb.obj",
+              "price": "100.00",
+              "materials": [
+                {
+                  "color": "#C0C0C0",
+                  "matPath": "/models/holodilnik.mtl"
+                },
+                {
+                  "color": "#FFFFFF",
+                  "matPath": "/models/holodilnik.mtl"
+                }
+              ],
+              "imgPath": "/models/holodilnik.png",
+              "properties": {
+                "width": [
+                  {
+                    "value": "75",
+                    "price": "10",
+                    "model": "holodilnik"
+                  }
+                ],
+                "height": [
+                  {
+                    "value": "170",
+                    "price": "0",
+                    "model": "holodilnik"
+                  }
+                ],
+                "colors": [
+                  "#C0C0C0",
+                  "#FFFFFF"
+                ],
+                "model": "holodilnik.glb",
+                "mtlFile": "holodilnik.mtl"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "furniture_and_appliances",
+      "title": "Мебель и техника",
+      "number": "1",
+      "categories": [
+        "storage",
+        "appliances"
+      ]
+    },
+    {
+      "id": "interior",
+      "title": "Интерьер",
+      "number": "2",
+      "categories": [
+        "decor",
+        "lighting"
+      ]
+    }
+  ]
+}

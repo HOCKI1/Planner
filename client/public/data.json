@@ -1,0 +1,337 @@
+{
+  "categories": [
+    {
+      "id": "storage",
+      "title": "Пространство для хранения",
+      "description": "Шкафы, тумбы и системы хранения",
+      "subcategories": [
+        {
+          "id": "cabinets",
+          "name": "Шкафы",
+          "img": "/models/shkaf1.png",
+          "items": [
+            {
+              "id": 1,
+              "show": true,
+              "name": "Тумба лев.",
+              "width": 0.4,
+              "depth": 0.6,
+              "height": 0.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba_40x60x85_2.glb",
+              "price": "10.99",
+              "imgPreviewPath": "/models/tumba1.png",
+              "img2dPath": "/models/tumba1.png",
+              "width_variants": [
+                {
+                  "width": 0.4,
+                  "id": 1
+                }
+              ],
+              "color_variants": [
+                {
+                  "color": "white",
+                  "id": 1
+                },
+                {
+                  "color": "black",
+                  "id": 52
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "show": true,
+              "name": "Тумба прав.",
+              "width": 0.4,
+              "depth": 0.6,
+              "height": 0.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba_40x60x85_1.glb",
+              "price": "10.99",
+              "imgPreviewPath": "/models/tumba1.png",
+              "img2dPath": "/models/tumba1.png",
+              "width_variants": [
+                {
+                  "width": 0.4,
+                  "id": 2
+                }
+              ],
+              "color_variants": []
+            },
+            {
+              "id": 3,
+              "show": true,
+              "name": "Тумба центр.",
+              "width": 0.4,
+              "depth": 0.6,
+              "height": 0.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba_40x60x85_3.glb",
+              "price": "10.99",
+              "imgPreviewPath": "/models/tumba1.png",
+              "img2dPath": "/models/tumba1.png",
+              "width_variants": [
+                {
+                  "width": 0.4,
+                  "id": 3
+                },
+                {
+                  "width": 0.6,
+                  "id": 4
+                },
+                {
+                  "width": 0.8,
+                  "id": 5
+                }
+              ],
+              "color_variants": []
+            },
+            {
+              "id": 4,
+              "show": false,
+              "name": "Тумба широкая центр.",
+              "width": 0.6,
+              "depth": 0.6,
+              "height": 0.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba_60x60x85_2.glb",
+              "price": "15.99",
+              "imgPreviewPath": "/models/tumba1.png",
+              "img2dPath": "/models/tumba1.png",
+              "width_variants": [
+                {
+                  "width": 0.4,
+                  "id": 3
+                },
+                {
+                  "width": 0.6,
+                  "id": 4
+                },
+                {
+                  "width": 0.8,
+                  "id": 5
+                }
+              ],
+              "color_variants": []
+            },
+            {
+              "id": 5,
+              "show": false,
+              "name": "Тумба оч. широкая центр.",
+              "width": 0.8,
+              "depth": 0.6,
+              "height": 0.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba_80x60x85_1.glb",
+              "price": "20.99",
+              "imgPreviewPath": "/models/tumba1.png",
+              "img2dPath": "/models/tumba1.png",
+              "width_variants": [
+                {
+                  "width": 0.4,
+                  "id": 3
+                },
+                {
+                  "width": 0.6,
+                  "id": 4
+                },
+                {
+                  "width": 0.8,
+                  "id": 5
+                }
+              ],
+              "color_variants": []
+            },
+            {
+              "id": 6,
+              "show": true,
+              "name": "Верх. тумба широкая центр.",
+              "width": 0.6,
+              "depth": 0.4,
+              "height": 1.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba_verh_60x40x50_1.glb",
+              "price": "12.99",
+              "imgPreviewPath": "/models/tumba1.png",
+              "img2dPath": "/models/tumba1.png",
+              "width_variants": [
+                {
+                  "width": 0.6,
+                  "id": 6
+                },
+                {
+                  "width": 0.8,
+                  "id": 7
+                }
+              ],
+              "color_variants": []
+            },
+            {
+              "id": 7,
+              "show": false,
+              "name": "Верх. тумба оч. широкая центр.",
+              "width": 0.8,
+              "depth": 0.4,
+              "height": 1.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba_verh_80x40x50_1.glb",
+              "price": "15.99",
+              "imgPreviewPath": "/models/tumba1.png",
+              "img2dPath": "/models/tumba1.png",
+              "width_variants": [
+                {
+                  "width": 0.6,
+                  "id": 6
+                },
+                {
+                  "width": 0.8,
+                  "id": 7
+                }
+              ],
+              "color_variants": []
+            },
+            {
+              "id": 8,
+              "show": true,
+              "name": "Верх. тумба лев.",
+              "width": 0.4,
+              "depth": 0.4,
+              "height": 1.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba_verh_40x40x50_2.glb",
+              "price": "8.99",
+              "imgPreviewPath": "/models/tumba1.png",
+              "img2dPath": "/models/tumba1.png",
+              "width_variants": [
+                {
+                  "width": 0.4,
+                  "id": 8
+                }
+              ],
+              "color_variants": []
+            },
+            {
+              "id": 9,
+              "show": true,
+              "name": "Верх. тумба прав.",
+              "width": 0.4,
+              "depth": 0.4,
+              "height": 1.85,
+              "rotZ": 0,
+              "modelPath": "/models/tumba_verh_40x40x50_1.glb",
+              "price": "8.99",
+              "imgPreviewPath": "/models/tumba1.png",
+              "img2dPath": "/models/tumba1.png",
+              "width_variants": [
+                {
+                  "width": 0.4,
+                  "id": 9
+                }
+              ],
+              "color_variants": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appliances",
+      "title": "Техника",
+      "description": "Бытовая техника для кухни",
+      "subcategories": [
+        {
+          "id": "refrigerators",
+          "name": "Холодильники",
+          "items": [
+            {
+              "id": 21,
+              "show": true,
+              "name": "Холодильник",
+              "width": 0.6,
+              "depth": 0.65,
+              "height": 1.6,
+              "rotZ": 0,
+              "modelPath": "/models/holodilnik_60x60x160_1.glb",
+              "price": "59.99",
+              "imgPreviewPath": "/models/holodilnik_60x60x160_1.png",
+              "img2dPath": "/models/holodilnik_60x60x160_1.png",
+              "width_variants": [
+                {
+                  "width": 0.6,
+                  "id": 21
+                },
+                {
+                  "width": 0.6,
+                  "id": 22
+                }
+              ],
+              "color_variants": [
+                {
+                  "color": "white",
+                  "id": 1
+                },
+                {
+                  "color": "gray",
+                  "id": 2
+                }
+              ]
+            },
+            {
+              "id": 22,
+              "show": false,
+              "name": "Холодильник 2",
+              "width": 0.6,
+              "depth": 0.65,
+              "height": 1.6,
+              "rotZ": 0,
+              "modelPath": "/models/holodilnik_60x60x160_2.glb",
+              "price": "59.99",
+              "imgPreviewPath": "/models/holodilnik_60x60x160_2.png",
+              "img2dPath": "/models/holodilnik_60x60x160_2.png",
+              "width_variants": [
+                {
+                  "width": 0.6,
+                  "id": 21
+                },
+                {
+                  "width": 0.6,
+                  "id": 22
+                }
+              ],
+              "color_variants": [
+                {
+                  "color": "white",
+                  "id": 1
+                },
+                {
+                  "color": "gray",
+                  "id": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "furniture_and_appliances",
+      "title": "Мебель и техника",
+      "number": "1",
+      "categories": [
+        "storage",
+        "appliances"
+      ]
+    },
+    {
+      "id": "interior",
+      "title": "Интерьер",
+      "number": "2",
+      "categories": [
+        "storage"
+      ]
+    }
+  ]
+}

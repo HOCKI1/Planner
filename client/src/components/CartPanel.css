@@ -1,0 +1,29 @@
+.top-right-panel {
+    position: fixed;
+    top: 4rem;
+    right: 1rem;
+    z-index: 50;
+  }
+  
+  .trpanel-content {
+    background: white;
+    border-radius: 1rem;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+    padding: 1.5rem;
+    width: 300px;
+    max-height: 90vh;
+    overflow-y: auto;
+    position: relative;
+    z-index: 51;
+  }
+  
+  .panel-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: transparent;
+    z-index: 50;
+  }
+  

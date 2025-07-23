@@ -1,0 +1,14 @@
+{
+  "models": [
+    {
+      "id": "wooden_boxes",
+      "name": "Wooden Boxes",
+      "path": "/src/assets/models/wooden_boxes.glb",
+      "defaultScale": {
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      }
+    }
+  ]
+}
